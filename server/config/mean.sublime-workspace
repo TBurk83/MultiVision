@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"navbar-fix",
+				"navbar-fixed-top"
+			],
+			[
+				"$loca",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"__",
+				"__dirname"
+			],
+			[
+				"req",
+				"require"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/config/routes.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/config/auth.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/login.ctrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/app.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/services/auth.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/includes/scripts.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/services/account.services.module.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/notifier.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/services/auth.services.module.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/common.services.module.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/identity.service.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/css/site.styl",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/navbar-login.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/identity.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/notifier.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/services/services.module.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/config/express.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/config/mongoose.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/common/notifier.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/config/config.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/main/main.module.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/account/login.module.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/main/main.ctrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/partials/main/main.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/index.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/partials/main/new-courses.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/partials/featured-courses.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/partials/new-courses.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/partials/navbar-login.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/main/controllers/mainCtrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/main/controllers/mvMainCtrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/app/main/mvMainCtrl.js",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/views/partials/main.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/includes/layout.jade",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/Procfile",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/package.json",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/public/css/bootstrap.css",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/server/favicon.ico",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/.gitignore",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/bower.json",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/.bowerrc",
+		"/Users/trevorburkholder/Documents/mean-projects/pluralsight/MultiVision/bower.rc",
+		"/Users/trevorburkholder/Documents/node projects/file-explorer/package.json",
+		"/Users/trevorburkholder/Documents/node projects/file-explorer/index.js",
+		"/Users/trevorburkholder/Documents/node projects/magnus/public/auth/routes/auth.js",
+		"/Users/trevorburkholder/Documents/node projects/file-explorer/coffee.js.coffee"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"‘",
+			"’",
+			"‘",
+			"”",
+			"“"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mean.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
