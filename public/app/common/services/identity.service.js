@@ -11,7 +11,7 @@ commonServices.factory('identity', function($window, user) {
 		isAuthenticated: function() {
 			return !!this.currentUser;
 		},
-		isAuthorized: function() {
+		isAuthorized: function(role) {
 			return !!this.currentUser && this.currentUser.roles.indexOf(role) > -1;
 		}
 	}
