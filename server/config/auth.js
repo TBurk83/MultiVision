@@ -1,6 +1,7 @@
 var passport = require('passport');
 
 exports.authenticate = function(req, res, next) {
+	req.body.username = req.body.username.toLowerCase();
 	var auth = passport.authenticate('local', function(err, user) {
 		if(err) {return next(err);}
 
@@ -15,7 +16,7 @@ exports.authenticate = function(req, res, next) {
 		});
 	});
 	auth(req, res, next);
-} 
+};
 
 exports.requiresApiLogin = function(req, res, next) {
 	if(!req.isAuthenticated()) {
@@ -34,5 +35,5 @@ exports.requiresRole = function(role) {
 		} else {
 			next();
 		}
-	}
+	};
 };

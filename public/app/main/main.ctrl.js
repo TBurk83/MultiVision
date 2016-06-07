@@ -1,4 +1,4 @@
-main.controller('mainCtrl', function($scope) {
+angular.module('main').controller('mainCtrl', function($scope) {
 	$scope.courses = [
 	    {name: 'C# for Sociopaths', featured: true, published: new Date('10/5/2013')},
 	    {name: 'C# for Non-Sociopaths', featured: true, published: new Date('10/12/2013')},
@@ -16,4 +16,4 @@ main.controller('mainCtrl', function($scope) {
 	    {name: 'How to Deal with Narcissistic Coworkers', featured: true, published: new Date('2/15/2013')},
 	    {name: 'Death March Coding for Fun and Profit', featured: true, published: new Date('7/1/2013')}
 	  ]
-});	
+});

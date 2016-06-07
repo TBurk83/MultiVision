@@ -1,1 +1,0 @@
-var admin = angular.module('adminModule', []);
